@@ -3,11 +3,17 @@ Welcome to the Expenses Tracker! This simple command-line application allows you
 
 ## Table of Contents
 ●Introduction
+
 ●Features
+
 ●Installation
+
 ●How to Use
+
 ●Dependencies
+
 ●Contributing
+
 ●License
 
 ## Introduction
