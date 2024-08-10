@@ -35,7 +35,7 @@ The Expenses Tracker is a Python-based application that connects to a MySQL data
 
 ## Installation
 #### 1) Clone the Repository:
-###### git clone https://github.com/yourusername/expenses-tracker.git
+###### git clone https://github.com/Mohamed00Elkassify/expenses-tracker.git
 ###### cd expenses-tracker
 #### 2) Set Up the MySQL Database:
 Make sure you have MySQL installed and running.
