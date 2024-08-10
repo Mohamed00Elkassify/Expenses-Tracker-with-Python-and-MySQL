@@ -46,15 +46,15 @@ Create a database named expenses.
 1) Launch the program using the command above.
 
 2) Choose an option from the menu:
-  ●Add new expense: Log a new expense with category, description, and amount.
+    ●Add new expense: Log a new expense with category, description, and amount.
 
-  ●View all expenses: List all expenses logged in the database.
+    ●View all expenses: List all expenses logged in the database.
 
-  ●View total expenses: See the sum of all expenses.
+    ●View total expenses: See the sum of all expenses.
 
-  ●View expenses by category: Breakdown of expenses per category.
+    ●View expenses by category: Breakdown of expenses per category.
 
-  ●View remaining budget: See how much money is left in your monthly budget and your daily spending allowance.
+    ●View remaining budget: See how much money is left in your monthly budget and your daily spending allowance.
 
 3) Exit: Close the tracker.
 
