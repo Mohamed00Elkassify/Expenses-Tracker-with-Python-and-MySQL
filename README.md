@@ -21,11 +21,17 @@ The Expenses Tracker is a Python-based application that connects to a MySQL data
 
 ## Features
 ●Add new expenses with categories, descriptions, and amounts.
+
 ●View all logged expenses.
+
 ●Calculate and display the total amount of expenses.
+
 ●Summarize expenses by category.
+
 ●Calculate remaining budget based on a predefined monthly budget.
+
 ●Estimate daily budget needed to stay within your monthly budget.
+
 
 ## Installation
 #### 1) Clone the Repository:
@@ -37,14 +43,20 @@ Create a database named expenses.
 #### 3) Run the Program
 
 ## How to Use
-●Launch the program using the command above.
-●Choose an option from the menu:
+1) Launch the program using the command above.
+
+2) Choose an option from the menu:
 ●Add new expense: Log a new expense with category, description, and amount.
+
 ●View all expenses: List all expenses logged in the database.
+
 ●View total expenses: See the sum of all expenses.
+
 ●View expenses by category: Breakdown of expenses per category.
+
 ●View remaining budget: See how much money is left in your monthly budget and your daily spending allowance.
-●Exit: Close the tracker.
+
+3) Exit: Close the tracker.
 
 ## Dependencies
 Python 3.x
